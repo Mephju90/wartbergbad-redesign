@@ -40,6 +40,7 @@ Dieses Repository enthält das finale Design der Wartbergbad-Website. Die Websit
 ## ⚠️ Rechtlicher Hinweis
 
 Dieses Projekt wurde im Rahmen meiner Tätigkeit bei der Firma Regelmann GmbH & Co. KG erstellt. Alle Rechte an der Website und den Inhalten liegen bei der Firma Regelmann.
+Alle Rechte an den gezeigten Inhalten liegen bei der Firma Regelmann. Die Nutzung erfolgt ausschließlich zu nicht-kommerziellen Zwecken.
 
 ## ✍️ Autor
 
